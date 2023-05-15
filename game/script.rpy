@@ -543,7 +543,7 @@ label EP1jardim :
 
     scene MatheueCillasCorredor
 
-    "Ambos os meninos seapavoraram ao ver não só eles como grande parte da escola indo em direção ao berro apavorante"
+    "Ambos os meninos se apavoraram ao ver não só eles como grande parte da escola indo em direção ao berro apavorante"
 
 
 
@@ -557,7 +557,7 @@ label EP1jardim :
 
     d "Alunos peço por gentileza, que todos se dirijam ao ginasio e assim todos saberam melhor o ocorrido! "
 
-    "Murmurinhos se conduziam juntos aos alunos para o ginasio, contudo Cillas notou um respingo de gotas saindo da porta, não enxergou direito pot conta da distancia, mas sabia que tinha algo ali"
+    "Murmurinhos se conduziam juntos aos alunos para o ginasio, contudo Cillas notou um respingo de gotas saindo da porta, não enxergou direito por conta da distancia, mas sabia que tinha algo ali"
 
 
     hide Diretora
@@ -566,7 +566,7 @@ label EP1jardim :
 
     scene Visaoplateia
 
-    "Todos acomodaram-se nas caderas colocadas rapidamente pelo Zellador que logo em seguida saiu correndo, ainda ofegante."
+    "Todos acomodaram-se nas cadeiras colocadas rapidamente pelo Zellador que logo em seguida saiu correndo, ainda ofegante."
 
 
 
@@ -575,7 +575,7 @@ label EP1jardim :
 
     scene Visaopupito
 
-    d "Todos aqui foram acordados com um susto, ocasionando por um grito!"
+    d "Todos aqui foram acordados com um susto, ocasionado por um grito!"
     d "Não queria ser tão franca com vocês, mas não tenho como fugir!"
 
 
@@ -587,7 +587,7 @@ label EP1jardim :
 
     d "O tal grito veio da amiga de vocês Nathali que apavorada encontrou o corpo da professora Scarlet ensanguentado na sala"
 
-    "Altos cuchichos se alastraram pelo ginásio, mirados sem olhos mas em correntes de palvras à Nathali "
+    "Altos cochichos se alastraram pelo ginásio, mirados sem olhos mas em correntes de palvras à Nathali "
 
 
 
@@ -595,8 +595,8 @@ label EP1jardim :
 
     scene Visaopupito
 
-    d "EH! EH! EH! PESSOAÇ?! Não vinheram aqui para atormentar sua amiga e sim para ajuda-la a passar por isso, como belos amigos de classes e escolares que são!"
-    d "Certificamos de ligar para os policias assim que descobrimos o infortunio, contudo os policias mais proximos estão a uma semana, o que vale lembra que a reunião de pais é nesse domingo"
+    d "EH! EH! EH! PESSOAL?! Não vinheram aqui para atormentar sua amiga e sim para ajuda-la a passar por isso, como belos amigos de classes e escolares que são!"
+    d "Certificamos de ligar para os policias assim que descobrimos o infortúnio, contudo os policias mais próximos estão a uma semana, o que vale lembra que a reunião de pais é nesse domingo"
     d "Espero ver notas excepcionais nessa semana, e não se preocupem os seus pais seram notificados sobre a morte de sua professora"
     d "Para finalizar, esta proibido a entrada de alunos na sala, logo-o-a virando uma cena de crime, o Zelado e a Secretaria tomaram as providências para remanejar os alunos da professora para outra sala!"
     d "Agora sim, podem voltar aos estudos!"
@@ -609,7 +609,7 @@ label EP1jardim :
 
     scene AlunosnoCorredor
 
-    "Algumas salas estavam em seu tempo livre, ja que a escola permitia que os alunos esoolhecem quando a rotina escolar iria começar, então os livre foram para o jardim"
+    "Algumas salas estavam em seu tempo livre, já que a escola permitia que os alunos escolhecem quando a rotina escolar iria começar, então os livre foram para o jardim"
 
 
 
@@ -620,16 +620,16 @@ label EP1jardim :
     scene Jardim
 
     show Cillas at left
-    "Cillas por um momentos relaxou traquilo perto da sombra, venddo o chão cheio de obejetos da festa de ontem, em umas das diversas arvores que a EscolaImparium possuia, mas durou pouco até notar a presença de algo a vigia-lo"
+    "Cillas por um momentos relaxou traquilo perto da sombra, vendo o chão cheio de objetos da festa de ontem, em umas das diversas árvores que a Escola Imparium possuia, mas durou pouco até notar a presença de algo a vigia-lo"
     show Matheu at center
-    c "Oque foi Matheu?"
+    c "O que foi Matheu?"
     m "Caraca, não falei nada, como sabes que era eu?"
-    c "Além do cheio de corote, tu é o unico que me persegue."
+    c "Além do cheiro de corote, tu é o unico que me persegue."
     m "Verdade..."
 
-    "Por dez segundos dava para, não só ouvir mais ver, o constransgimento do momento silecioso entre os dois se formando"
+    "Por dez segundos dava, não só ouvir mais ver, o constransgimento do momento silecioso entre os dois se formando"
 
-    c "Tu não vai... Falra mais nada não?"
+    c "Tu não vai... Fala mais nada não?"
     m "Ah é... Desculpa, é a ressaca da festa de ontem... \n
     Estranho né, você fala tanto mas observa bem..."
 
@@ -638,7 +638,7 @@ label EP1jardim :
     m "Notei que era o unico que prestou atenção nas pessoas e na explicação da diretora..."
     c "E...?"
     "Dando um a resposta bem de desinterese Cillas, contudo notando cada palavra do 'novo Matheu.'"
-    m "Quero fazer uma aposta com você, e aproveita, sou um home de promesssa. \n
+    m "Quero fazer uma aposta com você, aproveita, sou um homem de promesssa. \n
     Olhe para meus colegas e diga-me o que esta acontecendo na vida deles, caso acerte, qualquer coisa que você pedi, eu farei"
     "Cillas sacou a pegadinha..."
     c "E se eu não conseguir?"
@@ -649,7 +649,7 @@ label EP1jardim :
     
     hide Cillas
     hide Matheu
-
+ 
 
 
 
@@ -658,7 +658,7 @@ label EP1jardim :
 
     scene JardimRomance
 
-    c"Aqueles dois ali, Pietro atrás dos aburtos e Julio, acho que tiveram ou ainda tem conexão, sinto um nó de amor bem apreenssado!" 
+    c"Aqueles dois ali, Pietro atrás dos arbustos e Julio, acho que tiveram ou ainda tem conexão, sinto um nó de amor bem apreenssado!" 
     m"Continua..."
 
 
